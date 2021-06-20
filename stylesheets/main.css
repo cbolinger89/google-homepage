@@ -1,0 +1,84 @@
+.topbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    padding: 15px;
+
+    color: #222;
+}
+#About {
+    padding-left:1px;
+  }
+
+#Store {
+    padding-left:20px;
+  }
+
+#Gmail {
+    padding-left: 84%;
+    font-size: 13px;
+}
+#Images {
+    padding-left: 20px;
+    font-size: 13px;
+}
+
+#fathersday {
+    display: flex;
+    object-position:center bottom;
+    width:auto;
+    vertical-align:bottom;
+    max-height:230px;
+    position:relative;
+    margin-left:650px;
+    margin-right:250px;
+    margin-top: 150px;
+    margin-bottom: 25px;
+    width: 500px;
+    height: 200px;
+}
+.searchwrap {
+    width: auto;
+    max-width: 584px;
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    height: 44px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.searchicon {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin-left: -255px;
+    margin-top: 12px;
+    color: #9aa0a6;
+    fill: currentColor;
+}
+.bottombar {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    padding: 15px;
+    color:#70757a;
+    background: #f2f2f2;
+    margin-top: 390px;
+    flex-wrap: space-between;
+    
+}
+#Advertising{
+    padding-left:1px;
+  }
+
+#Business{
+    padding-left:20px;
+  }
